@@ -1,4 +1,5 @@
 # QNA
 a question and answer backend 
-## Author
-Dongsky[CN] in short, not me.
+## About Author
+Author:Dongsky[CN] 
+In short, not me.
